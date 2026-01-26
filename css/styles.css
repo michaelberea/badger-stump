@@ -867,6 +867,10 @@ footer a:hover {
     gap: 1rem;
   }
 
+  .phone {
+    display: none;
+  }
+
   .hamburger {
     display: flex;
   }
