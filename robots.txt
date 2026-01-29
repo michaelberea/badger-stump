@@ -1,0 +1,6 @@
+# Badger Stump Grinding - robots.txt
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://www.badgerstump.com/sitemap.xml
